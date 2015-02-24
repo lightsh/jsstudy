@@ -1,0 +1,115 @@
+<!DOCTYPE html> 
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<style type="text/css">
+		
+			td {
+				text-align: center;
+			}
+			
+			.rectangle {
+				width: 100px;
+				height: 100px;
+                background-color: rgb(51, 102, 204);
+                border: 1px solid rgb(44, 91, 104);      				
+			}
+			
+			.circle {
+				width: 100px;
+				height: 100px;	
+				background-color: rgb(51, 102, 204);
+                border: 1px solid rgb(44, 91, 104);   
+				-moz-border-radius: 50px;
+				-webkit-border-radius: 50px;
+				border-radius: 50px;			
+			}
+			
+			.triangle {
+				width: 0;
+				height: 0;
+				border-left: 50px solid transparent;
+				border-right: 50px solid transparent;
+				border-bottom: 100px solid rgb(51, 102, 204);
+			}
+				
+			.heart {
+				 position: relative;
+				 width: 100px;
+				 height: 100px;
+			}
+			
+			.heart:before, .heart:after {
+				 position: absolute;
+				 content: "";
+				 left: 50px;
+				 top: 0;
+				 width: 50px;
+				 height: 80px;
+				 background: rgb(221,51,85);
+				 -moz-border-radius: 50px 50px 0 0;
+				 border-radius: 50px 50px 0 0;
+				 -webkit-transform: rotate(-45deg);
+				 -moz-transform: rotate(-45deg);
+				 -ms-transform: rotate(-45deg);
+				 -o-transform: rotate(-45deg);
+				 transform: rotate(-45deg);
+				 -webkit-transform-origin: 0 100%;
+				 -moz-transform-origin: 0 100%;
+				 -ms-transform-origin: 0 100%;
+				 -o-transform-origin: 0 100%;
+				 transform-origin: 0 100%;
+			}
+			
+			.heart:after {
+				 left: 0;
+				 -webkit-transform: rotate(45deg);
+				 -moz-transform: rotate(45deg);
+				 -ms-transform: rotate(45deg);
+				 -o-transform: rotate(45deg);
+				 transform: rotate(45deg);
+				 -webkit-transform-origin: 100% 100%;
+				 -moz-transform-origin: 100% 100%;
+				 -ms-transform-origin: 100% 100%;
+				 -o-transform-origin: 100% 100%;
+				 transform-origin :100% 100%;
+			}			
+				
+		</style>
+		<script type="text/javascript">
+	
+		</script>
+	</head>
+<body>
+	<table> 
+		<tr>
+			<td></td>
+			<td></td>	
+			<td></td>
+			<td></td>		
+			<td></td>			
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>	
+			<td></td>
+			<td></td>		
+			<td></td>				
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>	
+			<td></td>
+			<td></td>		
+			<td></td>				
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>	
+			<td></td>
+			<td></td>		
+			<td></td>					
+		</tr>			
+	</table>
+</body>
+</html>

@@ -1,0 +1,36 @@
+<!DOCTYPE html> 
+<html>
+	<head>
+		<style type="text/css">
+			textarea {
+				width : 200px;
+				height : 200px;
+			}
+		</style>
+		<script type="text/javascript">
+		
+			function return_sum_array(arrayA, arrayB) {
+			}
+			
+			function sum(array) {
+
+			}
+			
+			window.onload = function() {
+			
+					document.getElementById("calculation").onclick = function() {
+							
+					var result = return_sum_array([100, 100, 200, 300], [200, 300, 400, 500]);
+					
+					document.getElementById("result").value = sum(result);
+				};
+			}			
+		</script>
+	</head>
+<body>               
+	<input type="button" id="calculation" value="calculation"/>
+    <br>	
+    <textarea id="result">
+	</textarea>
+</body>
+</html>

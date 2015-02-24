@@ -1,0 +1,38 @@
+<!DOCTYPE html> 
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<style type="text/css">
+		
+			table, th, td {
+				border: 1px solid gray;
+				border-collapse: collapse;
+			}
+			
+			th, td {
+				padding: 15px;
+			}
+			
+			
+		</style>
+		<script type="text/javascript">
+			
+		
+			function GameTetris() {
+				
+			}
+			
+			var gameTetris;
+			window.onload = function() {
+				gameTetris = new GameTetris();
+				gameTetris.initGame("gameZone", 20, 12);
+			}
+				
+		</script>
+	</head>
+<body>
+<div>
+	<div id="gameZone"/>
+</div>
+</body>
+</html>

@@ -1,0 +1,22 @@
+<!DOCTYPE html> 
+<html>
+	<head>
+		<style type="text/css">
+		</style>
+		<script type="text/javascript">
+			function sum(n1, n2) {
+				return n1 + n2;
+			}
+			
+			function init() {
+					document.getElementById("calculation").onclick = function() {
+						var value = sum(1, 2);
+						alert(value);
+				};
+			}			
+		</script>
+	</head>
+<body onload="init()">               
+	<input type="button" id="calculation" value="calculation"/>        
+</body>
+</html>

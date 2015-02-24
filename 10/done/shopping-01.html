@@ -1,0 +1,44 @@
+<!DOCTYPE html> 
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<style type="text/css">
+			textarea {
+				width : 200px;
+				height : 200px;
+			}
+		</style>
+		<script type="text/javascript">
+		
+			function total_payment(list) {
+
+			}
+		
+			
+			window.onload = function() {
+			
+					document.getElementById("buy").onclick = function() {
+					
+					var shoppinglist = [];
+					
+					shoppinglist.push({"id" : "penny", "item" : "handbag", "count" : 1, "price" : 1000});
+					shoppinglist.push({"id" : "penny", "item" : "skin", "count" : 2, "price" : 300});
+					shoppinglist.push({"id" : "lenord", "item" : "iphone", "count" : 1, "price" : 6000});
+					shoppinglist.push({"id" : "lenord", "item" : "television", "count" : 1, "price" : 6000});
+					shoppinglist.push({"id" : "sheldon", "item" : "book", "count" : 10, "price" : 100});
+					shoppinglist.push({"id" : "sheldon", "item" : "mouse", "count" : 1, "price" : 5000});
+					shoppinglist.push({"id" : "sheldon", "item" : "mouse", "count" : 1, "price" : 5000});
+					
+										
+					document.getElementById("payment").value = total_payment(shoppinglist);
+				};
+			}			
+		</script>
+	</head>
+<body>               
+	<input type="button" id="buy" value="buy"/>
+    <br>	
+    <textarea id="payment">
+	</textarea>
+</body>
+</html>
