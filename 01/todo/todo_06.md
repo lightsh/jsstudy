@@ -2,7 +2,7 @@
 ========
 아래 그림과 같은 HTML 문서를 만들어주세요. - 테이블에서 짝수 번째 행의 색을 노란색(또는 좋아하는 색)으로 변경해주세요.
 
-![TODO06](https://github.com/ByungChangYoo/clipsoft/blob/master/javascript/01/todo/images/todo_06.png)
+![TODO06](https://raw.githubusercontent.com/lightsh/jsstudy/master/01/todo/images/todo_06.png)
 
 * class A
 

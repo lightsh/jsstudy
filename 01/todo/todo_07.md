@@ -2,7 +2,7 @@
 ========
 아래 그림과 같은 HTML 문서를 만들어주세요. - 학생 이름이 뒤죽박죽이에요 ~헐 :stuck_out_tongue::stuck_out_tongue::stuck_out_tongue:
 
-![TODO07](https://github.com/ByungChangYoo/clipsoft/blob/master/javascript/01/todo/images/todo_07.png)
+![TODO07](https://raw.githubusercontent.com/lightsh/jsstudy/master/01/todo/images/todo_07.png)
 
 * class A
 
