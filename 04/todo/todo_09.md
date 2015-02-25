@@ -19,12 +19,12 @@ function sum() {
 			
 > 초기 화면
 
-![TODO09](https://github.com/ByungChangYoo/clipsoft/blob/master/javascript/04/todo/images/todo_09.png)
+![TODO09](https://raw.githubusercontent.com/lightsh/jsstudy/master/04/todo/images/todo_09.png)
 
 
 > 결과 화면
 
-![TODO09](https://github.com/ByungChangYoo/clipsoft/blob/master/javascript/04/todo/images/todo_09_result.png)
+![TODO09](https://raw.githubusercontent.com/lightsh/jsstudy/master/04/todo/images/todo_09_result.png)
 
 ## HTML template
 

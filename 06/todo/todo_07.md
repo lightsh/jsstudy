@@ -19,12 +19,12 @@ function maximum_sum(list) {
 
 > 초기 화면
 
-![TODO07](https://github.com/ByungChangYoo/clipsoft/blob/master/javascript/06/todo/images/todo_07.png)
+![TODO07](https://raw.githubusercontent.com/lightsh/jsstudy/master/06/todo/images/todo_07.png)
 
 
 >  결과 화면
 
-![TODO07](https://github.com/ByungChangYoo/clipsoft/blob/master/javascript/06/todo/images/todo_07_result.png)
+![TODO07](https://raw.githubusercontent.com/lightsh/jsstudy/master/06/todo/images/todo_07_result.png)
 
 ## HTML template
 

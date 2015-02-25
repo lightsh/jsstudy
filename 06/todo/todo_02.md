@@ -16,12 +16,12 @@ function sum(listA, listB) {
 
 > 초기 화면
 
-![TODO02](https://github.com/ByungChangYoo/clipsoft/blob/master/javascript/06/todo/images/todo_02.png)
+![TODO02](https://raw.githubusercontent.com/lightsh/jsstudy/master/06/todo/images/todo_02.png)
 
 
 >  결과 화면
 
-![TODO02](https://github.com/ByungChangYoo/clipsoft/blob/master/javascript/06/todo/images/todo_02_result.png)
+![TODO02](https://raw.githubusercontent.com/lightsh/jsstudy/master/06/todo/images/todo_02_result.png)
 
 ## HTML template
 

@@ -20,12 +20,12 @@ function sum(text) {
 
 > 초기 화면
 
-![TODO10](https://github.com/ByungChangYoo/clipsoft/blob/master/javascript/06/todo/images/todo_10.png)
+![TODO10](https://raw.githubusercontent.com/lightsh/jsstudy/master/06/todo/images/todo_10.png)
 
 
 >  결과 화면
 
-![TODO10](https://github.com/ByungChangYoo/clipsoft/blob/master/javascript/06/todo/images/todo_10_result.png)
+![TODO10](https://raw.githubusercontent.com/lightsh/jsstudy/master/06/todo/images/todo_10_result.png)
 
 ## HTML template
 
