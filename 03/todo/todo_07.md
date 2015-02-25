@@ -9,7 +9,7 @@
 
 > 화면
 
-![TODO07](https://github.com/ByungChangYoo/clipsoft/blob/master/javascript/03/todo/images/todo_07.png)
+![TODO07](https://github.com/lightsh/jsstudy/blob/master/javascript/03/todo/images/todo_07.png)
 
 
 ## HTML template

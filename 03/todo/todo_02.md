@@ -8,12 +8,12 @@
 
 > 초기 화면
 
-![TODO02](https://github.com/ByungChangYoo/clipsoft/blob/master/javascript/03/todo/images/todo_02.png)
+![TODO02](https://github.com/lightsh/jsstudy/blob/master/javascript/03/todo/images/todo_02.png)
 
 
 > 삭제 후 화면
 
-![TODO02](https://github.com/ByungChangYoo/clipsoft/blob/master/javascript/03/todo/images/todo_02_result.png)
+![TODO02](https://github.com/lightsh/jsstudy/blob/master/javascript/03/todo/images/todo_02_result.png)
 
 ## HTML template
 

@@ -10,17 +10,17 @@
 
 > 초기 화면
 
-![TODO03](https://github.com/ByungChangYoo/clipsoft/blob/master/javascript/03/todo/images/todo_03.png)
+![TODO03](https://github.com/lightsh/jsstudy/blob/master/javascript/03/todo/images/todo_03.png)
 
 
 > 편집 화면
 
-![TODO03](https://github.com/ByungChangYoo/clipsoft/blob/master/javascript/03/todo/images/todo_03_edit.png)
+![TODO03](https://github.com/lightsh/jsstudy/blob/master/javascript/03/todo/images/todo_03_edit.png)
 
 
 > 편집을 마친 후 화면
 
-![TODO03](https://github.com/ByungChangYoo/clipsoft/blob/master/javascript/03/todo/images/todo_03_result.png)
+![TODO03](https://github.com/lightsh/jsstudy/blob/master/javascript/03/todo/images/todo_03_result.png)
 
 ## HTML template
 

@@ -21,12 +21,12 @@ no | subject
 
 > 입력 화면
 
-![TODO04](https://github.com/ByungChangYoo/clipsoft/blob/master/javascript/03/todo/images/todo_04.png)
+![TODO04](https://github.com/lightsh/jsstudy/blob/master/javascript/03/todo/images/todo_04.png)
 
 
 > 편집 화면
 
-![TODO04](https://github.com/ByungChangYoo/clipsoft/blob/master/javascript/03/todo/images/todo_04_edit.png)
+![TODO04](https://github.com/lightsh/jsstudy/blob/master/javascript/03/todo/images/todo_04_edit.png)
 
 
 ## HTML template

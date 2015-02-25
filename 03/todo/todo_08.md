@@ -10,22 +10,22 @@
 
 > 초기 화면
 
-![TODO08](https://github.com/ByungChangYoo/clipsoft/blob/master/javascript/03/todo/images/todo_08.png)
+![TODO08](https://github.com/lightsh/jsstudy/blob/master/javascript/03/todo/images/todo_08.png)
 
 
 > 필터 선택 화면
 
-![TODO08](https://github.com/ByungChangYoo/clipsoft/blob/master/javascript/03/todo/images/todo_08_filter.png)
+![TODO08](https://github.com/lightsh/jsstudy/blob/master/javascript/03/todo/images/todo_08_filter.png)
 
 
 > 필터로 `javascript`를 선택한 화면
 
-![TODO08](https://github.com/ByungChangYoo/clipsoft/blob/master/javascript/03/todo/images/todo_08_filter_javascript.png)
+![TODO08](https://github.com/lightsh/jsstudy/blob/master/javascript/03/todo/images/todo_08_filter_javascript.png)
 
 
 > 필터로 `python`를 선택한 화면
 
-![TODO08](https://github.com/ByungChangYoo/clipsoft/blob/master/javascript/03/todo/images/todo_08_filter_python.png)
+![TODO08](https://github.com/lightsh/jsstudy/blob/master/javascript/03/todo/images/todo_08_filter_python.png)
 
 ## HTML template
 

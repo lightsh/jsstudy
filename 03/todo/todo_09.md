@@ -25,22 +25,22 @@ all  | 모든 성적
 
 > 초기 화면
 
-![TODO09](https://github.com/ByungChangYoo/clipsoft/blob/master/javascript/03/todo/images/todo_09.png)
+![TODO09](https://github.com/lightsh/jsstudy/blob/master/javascript/03/todo/images/todo_09.png)
 
 
 > 필터 선택 화면
 
-![TODO09](https://github.com/ByungChangYoo/clipsoft/blob/master/javascript/03/todo/images/todo_09_filter.png)
+![TODO09](https://github.com/lightsh/jsstudy/blob/master/javascript/03/todo/images/todo_09_filter.png)
 
 
 > 필터로 `50`을 선택한 화면
 
-![TODO09](https://github.com/ByungChangYoo/clipsoft/blob/master/javascript/03/todo/images/todo_09_filter_50.png)
+![TODO09](https://github.com/lightsh/jsstudy/blob/master/javascript/03/todo/images/todo_09_filter_50.png)
 
 
 > 필터로 `20`을 선택한 화면
 
-![TODO09](https://github.com/ByungChangYoo/clipsoft/blob/master/javascript/03/todo/images/todo_09_filter_20.png)
+![TODO09](https://github.com/lightsh/jsstudy/blob/master/javascript/03/todo/images/todo_09_filter_20.png)
 
 ## HTML template
 

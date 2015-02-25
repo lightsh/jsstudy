@@ -9,17 +9,17 @@
 
 > 초기 화면
 
-![TODO10](https://github.com/ByungChangYoo/clipsoft/blob/master/javascript/03/todo/images/todo_10.png)
+![TODO10](https://github.com/lightsh/jsstudy/blob/master/javascript/03/todo/images/todo_10.png)
 
 
 > CSV 입력 창
 
-![TODO10](https://github.com/ByungChangYoo/clipsoft/blob/master/javascript/03/todo/images/todo_10_addcsv.png)
+![TODO10](https://github.com/lightsh/jsstudy/blob/master/javascript/03/todo/images/todo_10_addcsv.png)
 
 
 > 결과 화면
 
-![TODO10](https://github.com/ByungChangYoo/clipsoft/blob/master/javascript/03/todo/images/todo_10_result.png)
+![TODO10](https://github.com/lightsh/jsstudy/blob/master/javascript/03/todo/images/todo_10_result.png)
 
 
 ## HTML template
