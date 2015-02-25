@@ -5,7 +5,7 @@
 * TODO 02/TODO 03의 코드를 비교해보세요.
 
 
-![TODO03](https://github.com/ByungChangYoo/clipsoft/blob/master/javascript/16-2015년01월14일/todo/images/todo_02.gif)
+![TODO03](https://raw.githubusercontent.com/lightsh/jsstudy/master/16-2015년01월14일/todo/images/todo_02.gif)
 
 ## HTML template
 

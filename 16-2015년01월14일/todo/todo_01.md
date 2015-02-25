@@ -4,7 +4,7 @@
 * 아래 코드를 복사/붙여넣기 내공을 사용하십시오.
 
 
-![TODO01](https://github.com/ByungChangYoo/clipsoft/blob/master/javascript/16-2015년01월14일/todo/images/todo_01.png)
+![TODO01](https://raw.githubusercontent.com/lightsh/jsstudy/master/16-2015년01월14일/todo/images/todo_01.png)
 
 ## HTML template
 

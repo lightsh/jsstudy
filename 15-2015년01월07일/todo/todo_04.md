@@ -17,11 +17,11 @@
 * HTML은 수정하지 말고 JavaScript 만을 사용해서 구현해주세요.
 
 > 초기 화면
-![TODO04](https://github.com/ByungChangYoo/clipsoft/blob/master/javascript/15-2015년01월07일/todo/images/todo_04_01.png)
+![TODO04](https://raw.githubusercontent.com/lightsh/jsstudy/master/15-2015년01월07일/todo/images/todo_04_01.png)
 
 
 > Tutorial : Writing a game program in JavaScript – Introduction 클릭했을 때 화면
-![TODO04](https://github.com/ByungChangYoo/clipsoft/blob/master/javascript/15-2015년01월07일/todo/images/todo_04_02.png)
+![TODO04](https://raw.githubusercontent.com/lightsh/jsstudy/master/15-2015년01월07일/todo/images/todo_04_02.png)
 
 ## HTML template
 

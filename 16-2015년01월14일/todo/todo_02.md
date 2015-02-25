@@ -7,7 +7,7 @@
 * jQuery를 사용하지 마세요.
 
 
-![TODO02](https://github.com/ByungChangYoo/clipsoft/blob/master/javascript/16-2015년01월14일/todo/images/todo_02.gif)
+![TODO02](https://raw.githubusercontent.com/lightsh/jsstudy/master/16-2015년01월14일/todo/images/todo_02.gif)
 
 ## HTML template
 
