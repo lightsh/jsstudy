@@ -10,12 +10,12 @@
 
 > 입력 화면
 
-![TODO06](https://github.com/lightsh/jsstudy/blob/master/javascript/03/todo/images/todo_06.png)
+![TODO06](https://raw.githubusercontent.com/lightsh/jsstudy/master/03/todo/images/todo_06.png)
 
 
 > 편집 화면
 
-![TODO06](https://github.com/lightsh/jsstudy/blob/master/javascript/03/todo/images/todo_06_edit.png)
+![TODO06](https://raw.githubusercontent.com/lightsh/jsstudy/master/03/todo/images/todo_06_edit.png)
 
 
 ## HTML template

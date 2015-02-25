@@ -11,17 +11,17 @@
 > 입력 화면
 
 
-![TODO05](https://github.com/ByungChangYoo/clipsoft/blob/master/javascript/03/todo/images/todo_05.png)
+![TODO05](https://raw.githubusercontent.com/lightsh/jsstudy/master/03/todo/images/todo_05.png)
 
 
 > 경고 메시지 화면
 
-![TODO05](https://github.com/ByungChangYoo/clipsoft/blob/master/javascript/03/todo/images/todo_05_alert.png)
+![TODO05](https://raw.githubusercontent.com/lightsh/jsstudy/master/03/todo/images/todo_05_alert.png)
 
 
 > 편집 화면
 
-![TODO05](https://github.com/ByungChangYoo/clipsoft/blob/master/javascript/03/todo/images/todo_05_edit.png)
+![TODO05](https://raw.githubusercontent.com/lightsh/jsstudy/master/03/todo/images/todo_05_edit.png)
 
 
 ## HTML template

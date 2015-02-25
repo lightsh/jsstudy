@@ -7,12 +7,12 @@
 
 > 초기 화면
 
-![TODO01](https://github.com/lightsh/jsstudy/blob/master/javascript/03/todo/images/todo_01.png)
+![TODO01](https://raw.githubusercontent.com/lightsh/jsstudy/master/03/todo/images/todo_01.png)
 
 
 > 입력 후 화면
 
-![TODO01](https://github.com/lightsh/jsstudy/blob/master/javascript/03/todo/images/todo_01_result.png)
+![TODO01](https://raw.githubusercontent.com/lightsh/jsstudy/master/03/todo/images/todo_01_result.png)
 
 ## HTML template
 
