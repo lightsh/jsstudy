@@ -47,7 +47,7 @@
 	
 > 초기 화면
 
-![TODO04](https://github.com/ByungChangYoo/clipsoft/blob/master/javascript/13/todo/images/todo_04.gif)
+![TODO04](https://raw.githubusercontent.com/lightsh/jsstudy/master/13/todo/images/todo_04.gif)
 
 
 

@@ -47,12 +47,12 @@ function print_payment(list) {
 
 > 초기 화면
 
-![TODO04](https://github.com/ByungChangYoo/clipsoft/blob/master/javascript/10/todo/images/todo_04.png)
+![TODO04](https://raw.githubusercontent.com/lightsh/jsstudy/master/10/todo/images/todo_04.png)
 
 
 >  결과 화면
 
-![TODO04](https://github.com/ByungChangYoo/clipsoft/blob/master/javascript/10/todo/images/todo_04_result.png)
+![TODO04](https://raw.githubusercontent.com/lightsh/jsstudy/master/10/todo/images/todo_04_result.png)
 
 ## HTML template
 

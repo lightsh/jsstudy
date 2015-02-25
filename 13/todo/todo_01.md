@@ -26,7 +26,7 @@
 	
 > 초기 화면
 
-![TODO01](https://github.com/ByungChangYoo/clipsoft/blob/master/javascript/13/todo/images/todo_01.png)
+![TODO01](https://raw.githubusercontent.com/lightsh/jsstudy/master/13/todo/images/todo_01.png)
 
 
 

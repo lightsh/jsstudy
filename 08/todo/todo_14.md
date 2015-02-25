@@ -23,12 +23,12 @@ function cal(list) {
 
 > 초기 화면
 
-![TODO14](https://github.com/ByungChangYoo/clipsoft/blob/master/javascript/08/todo/images/todo_01.png)
+![TODO14](https://raw.githubusercontent.com/lightsh/jsstudy/master/08/todo/images/todo_01.png)
 
 
 >  결과 화면
 
-![TODO14](https://github.com/ByungChangYoo/clipsoft/blob/master/javascript/08/todo/images/todo_01_result.png)
+![TODO14](https://raw.githubusercontent.com/lightsh/jsstudy/master/08/todo/images/todo_01_result.png)
 
 ## HTML template
 

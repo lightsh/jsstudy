@@ -35,7 +35,7 @@
 	
 > 초기 화면
 
-![TODO02](https://github.com/ByungChangYoo/clipsoft/blob/master/javascript/13/todo/images/todo_02.gif)
+![TODO02](https://raw.githubusercontent.com/lightsh/jsstudy/master/13/todo/images/todo_02.gif)
 
 
 

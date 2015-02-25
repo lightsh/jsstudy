@@ -15,17 +15,17 @@
 	
 > 초기 화면
 
-![TODO01](https://github.com/ByungChangYoo/clipsoft/blob/master/javascript/12/todo/images/todo_01.png)
+![TODO01](https://raw.githubusercontent.com/lightsh/jsstudy/master/12/todo/images/todo_01.png)
 
 
 >  결과 화면 - 왼쪽 방향키를 눌렀을 때
 
-![TODO01](https://github.com/ByungChangYoo/clipsoft/blob/master/javascript/12/todo/images/todo_01_result_01.png)
+![TODO01](https://raw.githubusercontent.com/lightsh/jsstudy/master/12/todo/images/todo_01_result_01.png)
 
 
 >  결과 화면 - 오른쪽 방향키를 눌렀을 때
 
-![TODO01](https://github.com/ByungChangYoo/clipsoft/blob/master/javascript/12/todo/images/todo_01_result_02.png)
+![TODO01](https://raw.githubusercontent.com/lightsh/jsstudy/master/12/todo/images/todo_01_result_02.png)
 
 
 

@@ -8,22 +8,22 @@
 	
 > 초기 화면
 
-![TODO02](https://github.com/ByungChangYoo/clipsoft/blob/master/javascript/12/todo/images/todo_02.png)
+![TODO02](https://raw.githubusercontent.com/lightsh/jsstudy/master/12/todo/images/todo_02.png)
 
 
 >  결과 화면 - 스페이스 키를 눌렀을 때
 
-![TODO02](https://github.com/ByungChangYoo/clipsoft/blob/master/javascript/12/todo/images/todo_02_result_01.png)
+![TODO02](https://raw.githubusercontent.com/lightsh/jsstudy/master/12/todo/images/todo_02_result_01.png)
 
 
 >  결과 화면 - 오른쪽 이동
 
-![TODO02](https://github.com/ByungChangYoo/clipsoft/blob/master/javascript/12/todo/images/todo_02_result_02.png)
+![TODO02](https://raw.githubusercontent.com/lightsh/jsstudy/master/12/todo/images/todo_02_result_02.png)
 
 
 >  결과 화면 - 다시 스페이스 키를 눌렀을 때
 
-![TODO02](https://github.com/ByungChangYoo/clipsoft/blob/master/javascript/12/todo/images/todo_02_result_03.png)
+![TODO02](https://raw.githubusercontent.com/lightsh/jsstudy/master/12/todo/images/todo_02_result_03.png)
 
 
 ## HTML template

@@ -36,12 +36,12 @@ function display(list) {
 
 > 초기 화면
 
-![TODO06](https://github.com/ByungChangYoo/clipsoft/blob/master/javascript/07/todo/images/todo_06.png)
+![TODO06](https://raw.githubusercontent.com/lightsh/jsstudy/master/07/todo/images/todo_06.png)
 
 
 >  결과 화면
 
-![TODO06](https://github.com/ByungChangYoo/clipsoft/blob/master/javascript/07/todo/images/todo_06_result.png)
+![TODO06](https://raw.githubusercontent.com/lightsh/jsstudy/master/07/todo/images/todo_06_result.png)
 
 ## HTML template
 

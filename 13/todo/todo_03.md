@@ -42,7 +42,7 @@
 	
 > 초기 화면
 
-![TODO03](https://github.com/ByungChangYoo/clipsoft/blob/master/javascript/13/todo/images/todo_03.gif)
+![TODO03](https://raw.githubusercontent.com/lightsh/jsstudy/master/13/todo/images/todo_03.gif)
 
 
 

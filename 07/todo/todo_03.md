@@ -15,12 +15,12 @@ function count(text) {
 
 > 초기 화면
 
-![TODO03](https://github.com/ByungChangYoo/clipsoft/blob/master/javascript/07/todo/images/todo_03.png)
+![TODO03](https://raw.githubusercontent.com/lightsh/jsstudy/master/07/todo/images/todo_03.png)
 
 
 >  결과 화면
 
-![TODO03](https://github.com/ByungChangYoo/clipsoft/blob/master/javascript/07/todo/images/todo_03_result.png)
+![TODO03](https://raw.githubusercontent.com/lightsh/jsstudy/master/07/todo/images/todo_03_result.png)
 
 ## HTML template
 

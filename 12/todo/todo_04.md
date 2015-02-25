@@ -9,12 +9,12 @@
 	
 > 초기 화면
 
-![TODO04](https://github.com/ByungChangYoo/clipsoft/blob/master/javascript/12/todo/images/todo_04.png)
+![TODO04](https://raw.githubusercontent.com/lightsh/jsstudy/master/12/todo/images/todo_04.png)
 
 
 >  결과 화면 - 스페이스 키를 눌렀을 때
 
-![TODO04](https://github.com/ByungChangYoo/clipsoft/blob/master/javascript/12/todo/images/todo_04_result_01.gif)
+![TODO04](https://raw.githubusercontent.com/lightsh/jsstudy/master/12/todo/images/todo_04_result_01.gif)
 
 
 

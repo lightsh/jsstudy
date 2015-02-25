@@ -25,32 +25,32 @@
 	
 > 초기 화면
 
-![TODO01](https://github.com/ByungChangYoo/clipsoft/blob/master/javascript/11/todo/images/todo_01.png)
+![TODO01](https://raw.githubusercontent.com/lightsh/jsstudy/master/11/todo/images/todo_01.png)
 
 
 >  결과 화면 - down 버튼을 눌렀을 때
 
-![TODO01](https://github.com/ByungChangYoo/clipsoft/blob/master/javascript/11/todo/images/todo_01_result_01.png)
+![TODO01](https://raw.githubusercontent.com/lightsh/jsstudy/master/11/todo/images/todo_01_result_01.png)
 
 
 >  결과 화면 - right 버튼을 눌렀을 때
 
-![TODO01](https://github.com/ByungChangYoo/clipsoft/blob/master/javascript/11/todo/images/todo_01_result_02.png)
+![TODO01](https://raw.githubusercontent.com/lightsh/jsstudy/master/11/todo/images/todo_01_result_02.png)
 
 
 >  결과 화면 - 같의 모양의 2x2 로 될 경우(1)
 
-![TODO01](https://github.com/ByungChangYoo/clipsoft/blob/master/javascript/11/todo/images/todo_01_result_03.png)
+![TODO01](https://raw.githubusercontent.com/lightsh/jsstudy/master/11/todo/images/todo_01_result_03.png)
 
 
 >  결과 화면 - 같의 모양의 2x2 로 될 경우(2)
 
-![TODO01](https://github.com/ByungChangYoo/clipsoft/blob/master/javascript/11/todo/images/todo_01_result_04.png)
+![TODO01](https://raw.githubusercontent.com/lightsh/jsstudy/master/11/todo/images/todo_01_result_04.png)
 
 
 >  결과 화면 - GameOver
 
-![TODO01](https://github.com/ByungChangYoo/clipsoft/blob/master/javascript/11/todo/images/todo_01_result_05.png)
+![TODO01](https://raw.githubusercontent.com/lightsh/jsstudy/master/11/todo/images/todo_01_result_05.png)
 
 ## HTML template
 
